@@ -1,8 +1,9 @@
 Hi, this is Murat. 
-I'm a fullstack web developer. I'm interested in backend development and web applications.
-I’m currently learning typo3 (which is a cool CMS system) and its subskills (typoscript, fluids, extbase, etc).
-Currently, I'm translatign ProGit book to Turkish.
-I’m looking for collaboration to contibute on open-source projects by using JavaScript and PHP.
+I'm a full-stack web developer who creates web solutions using HTML, CSS, JavaScript, ReactJS, NodeJS, PHP, MySQL, and TYPO3. 
+I'm more interested in backend development and web applications.
+I'm currently improving my typo3 (a cool CMS system) and its subskills (TypoScript, fluids, Extbase, etc).
+My recent contribution to the open-source community is translating the ProGit2 book into Turkish.
+I’m looking for a collaboration to contribute to open-source projects using JavaScript and PHP.
 
 <!---
 murat-yasar/murat-yasar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
