@@ -1,47 +1,50 @@
-# About Me
+[![MasterHead]()
+<h1 align="center">Hi 👋, I'm Murat</h1>
+<h3 align="center">A curious full-stack software developer with a passion for JavaScript, PHP and Python.</h3>
 
-Hey there! 👋 I'm Murat, a full-stack software developer with a passion for JavaScript and PHP. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="murat-yasar" /> </p>
 
-## Professional Background
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar" /></a> </p>
 
-I currently work as a fullstack developer at COMKOM° GmbH, where I develop and update web based projects. I specialize in JavaScript for frontend and PHP for backend as well as TYPO3 CMS.
+- 🌱 I’m currently learning **TYPO3 and Extbase.**
 
-## Skills and Technologies
+- 💬 Ask me about **JavaScript and PHP.**
 
-- **Languages:** JavaScript (ES6), PHP8, Python3, Java
-- **Frameworks/Libraries:** JQuery, ReactJS, Redux, NodeJS, ExpressJS, TYPO3
-- **Tools:** Linux, Apache2, Git, MariaDB, Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other:** RESTful APIs, Postman, Composer, TypoScript, Extbase, Fluid Templates
+- 📫 How to reach me **dev.muratyasar@gmail.com**
 
-<!---
-## Projects
+- ⚡ My hobbies are **Travel, Books, Programming and Chess.**
 
-Here are a few projects I've been working on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/murat-yasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-yasar" height="30" width="40" /></a>
+<a href="https://twitter.com/devmuratyasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmuratyasar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23463499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23463499" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dev_muratyasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dev_muratyasar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/murat-yasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murat-yasar" height="30" width="40" /></a>
+</p>
 
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-## Open Source Contributions
-
-I'm passionate about open source and have contributed to various projects, including:
-
-- [Project Name](link): Brief description of your contribution.
-- [Project Name](link): Brief description of your contribution.
---->
-
-## Interests and Hobbies
-
-Outside of coding, I enjoy reading books, watching sci-fic movies, playing chess and walking in the nature. 
-
-## Goals and Aspirations
-
-My primary goal is to continuously improve and evolve as a software developer. In the next five years, I aim to become a highly competent and proficient developer, capable of tackling complex problems and building innovative solutions. I am committed to investing time in learning new technologies, mastering programming languages, and honing my problem-solving skills. Through dedication, persistence, and a passion for learning, I am confident in my ability to achieve this goal and make a meaningful impact in the world of software development.
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-## Let's Connect
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact" alt="murat-yasar" /></p>
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/murat-yasar/) or [E-Mail](mailto:dev.muratyasar@gmail.com). I'm always open to new opportunities and collaborations.
-
-Thanks for stopping by! 😊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en" alt="murat-yasar" /></p>
