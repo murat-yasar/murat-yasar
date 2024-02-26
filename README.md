@@ -1,6 +1,4 @@
-<img>
 ![MasterHead](https://github.com/murat-yasar/murat-yasar/blob/main/fullStack-MERN.webp)
-</img>
 
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript, PHP and Python.</h3>
