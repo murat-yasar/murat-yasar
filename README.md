@@ -53,4 +53,4 @@
 
 
 
-![snake animation](https://github.com/<seu murat-yasar>/<seu murat-yasar>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/murat-yasar/murat-yasar/blob/output/github-contribution-grid-snake2.svg)
