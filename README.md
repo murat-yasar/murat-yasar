@@ -49,3 +49,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact" alt="murat-yasar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en" alt="murat-yasar" /></p>
+
+
+
+![snake gif](https://github.com/murat-yasar/murat-yasar/blob/output/github-contribution-grid-snake.gif)
