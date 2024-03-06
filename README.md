@@ -1,15 +1,10 @@
 ![MasterHead](https://github.com/murat-yasar/murat-yasar/blob/main/full-stack-banner-1210x423.jpeg)
 
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">A curious full-stack software developer with a passion for JavaScript, PHP and Python.</h3>
+<h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
-👩‍💻 I'm currently working on JavaScript, PHP, and TYPO3.
-
-🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="murat-yasar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar" /></a> </p>
+<p align="left">👩‍💻 I'm currently working on JavaScript, PHP, and TYPO3.</p>
+<p align="left">🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,42 +15,47 @@
   <a href="https://www.leetcode.com/murat-yasar" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode logo" title="LeetCode" height="25" /></a>
 </p>
 
-<h3 align="left">Programming Languages & Frameworks:</h3>
+<h3 align="left">Programming Languages, Frameworks and Libraries:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />
-  <img src="https://img.shields.io/badge/React-282C34?logo=react" alt="react" title="React logo" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP logo" title="PHP" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white&labelColor=blue" alt="MySQL" title="MySQL logo" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM logo" title="NPM" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React logo" title="React" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Context--Api-282C34?style=for-the-badge&logo=react" alt="Context-API logo" title="Context-API" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />&nbsp;
 </p>
 
-<h3 align="left">DB & Tools:</h3>
+<h3 align="left">DataBases and Tools:</h3>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM logo" title="NPM" height="25" />
-  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />
-  <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />
-  <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-282C34?logo=docker" alt="docker" title="docker" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
 
+<h3 align="left">Trophies:</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar trophies" /></a>
+<img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" />
 
+<h3 align="left">GitHub Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar" align="left" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar" align="left" height="200" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar" width="865" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar" align="left" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar" align="left" height="200">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar" width="865">
-
-
-<!--  https://home.aveek.io/GitHub-Profile-Badges/
+<!--  https://home.aveek.io/GitHub-Profile-Badges  https://github.com/Ileriayo/markdown-badges
 <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache logo" title="Apache" height="25" />
 <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios logo" title="Axios" height="25" />
 <img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
@@ -85,6 +85,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />
 <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />
 <img src="https://img.shields.io/badge/Meta-0467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta logo" title="Meta" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose logo" title="Mongoose" height="25" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" />
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />
@@ -95,6 +97,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React-Router logo" title="React-Router" height="25" />
 <img src="https://img.shields.io/badge/Apache%20Solr-D9411E.svg?style=for-the-badge&logo=Apache-Solr&logoColor=white" alt="Solr logo" title="Solr" height="25" />
 <img src="https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony logo" title="Symfony" height="25" />
@@ -133,8 +136,6 @@
 <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="MDN-Web-Docs logo" title="MDN-Web-Docs" height="25" />
 <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium logo" title="Medium" height="25" />
 <img src="https://img.shields.io/badge/Meteor-DE4F4F.svg?style=for-the-badge&logo=Meteor&logoColor=white" alt="Meteor logo" title="Meteor" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
-<img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose logo" title="Mongoose" height="25" />
 <img src="https://img.shields.io/badge/Nano-4A90E2.svg?style=for-the-badge&logo=Nano&logoColor=white" alt="Nano logo" title="Nano" height="25" />
 <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25" />
@@ -153,8 +154,6 @@
 <img src="https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white" alt="Pug logo" title="Pug" height="25" />
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white" alt="Puppeteer logo" title="Puppeteer" height="25" />
 <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="R logo" title="R" height="25" />
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" />
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" alt="Ruby-on-Rails logo" title="Ruby-on-Rails" height="25" />
 <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust logo" title="Rust" height="25" />
