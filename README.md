@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
 
+<!--
 <h3 align="left">Projects:</h3>
   <a align="left" href="https://github.com/murat-yasar/JS_E-Shop" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_E-Shop&theme=city_lights""></a>
   <a align="left" href="https://github.com/murat-yasar/JS_TodoCalendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_TodoCalendar&theme=city_lights""></a> 
@@ -54,6 +55,7 @@
   <a align="left" href="https://github.com/murat-yasar/PHP-MySQL_ShoppingCart" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=PHP-MySQL_ShoppingCart&theme=city_lights""></a>
   <a align="left" href="https://github.com/murat-yasar/Java_BookstoreManagementSystem" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=Java_BookstoreManagementSystem&theme=city_lights""></a> 
   <a align="left" href="https://github.com/murat-yasar/progit2-tr" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=progit2-tr&theme=city_lights""></a>
+  -->
 
 <h3 align="left">Trophies:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar trophies" /></a>
