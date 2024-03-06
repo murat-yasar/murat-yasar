@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
-<div class="typewriter" >
-  <h1>Hi, there!</h1>
-</div>
-
 <p align="left">👩‍💻 I'm currently working on JavaScript, PHP, and TYPO3.</p>
 <p align="left">🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.</p>
 <p align="left">🎇 I'm currently contributing to translation of ProGit Book into Turkish.</p>
