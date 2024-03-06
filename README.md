@@ -63,7 +63,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar" align="left" height="190" />
-<img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar" align="left" height="190" />
+<img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar" align="right" height="190" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="850" />
 
 <!--  https://home.aveek.io/GitHub-Profile-Badges  https://github.com/Ileriayo/markdown-badges
