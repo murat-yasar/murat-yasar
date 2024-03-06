@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript, PHP and Python.</h3>
 
+👩‍💻 I'm currently working on JavaScript, PHP, and TYPO3.
+
+🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="murat-yasar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar" /></a> </p>
