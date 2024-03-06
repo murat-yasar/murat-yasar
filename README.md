@@ -5,7 +5,7 @@
 
 <p align="left">👩‍💻 I'm currently working on JavaScript, PHP, and TYPO3.</p>
 <p align="left">🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.</p>
-<p align="left">🎇 I'm currently  contributing to translation of Git Book to Turkish.</p>
+<p align="left">🎇 I'm currently contributing to translation of ProGit Book into Turkish.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
