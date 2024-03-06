@@ -48,12 +48,12 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-<a href="https://github.com/murat-yasar/JS_E-Shop" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_E-Shop&theme=city_lights""></a>
-<a href="https://github.com/murat-yasar/JS_TodoCalendar" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_TodoCalendar&theme=city_lights""></a> 
-<a href="https://github.com/murat-yasar/React_movieApp" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=React_movieApp&theme=city_lights""></a> 
-<a href="https://github.com/murat-yasar/PHP-MySQL_ShoppingCart" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=PHP-MySQL_ShoppingCart&theme=city_lights""></a>
-<a href="https://github.com/murat-yasar/Java_BookstoreManagementSystem" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=Java_BookstoreManagementSystem&theme=city_lights""></a> 
-<a href="https://github.com/murat-yasar/progit2-tr" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=progit2-tr&theme=city_lights""></a>
+  <a align="left" href="https://github.com/murat-yasar/JS_E-Shop" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_E-Shop&theme=city_lights""></a>
+  <a align="left" href="https://github.com/murat-yasar/JS_TodoCalendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=JS_TodoCalendar&theme=city_lights""></a> 
+  <a align="left" href="https://github.com/murat-yasar/React_movieApp" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=React_movieApp&theme=city_lights""></a> 
+  <a align="left" href="https://github.com/murat-yasar/PHP-MySQL_ShoppingCart" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=PHP-MySQL_ShoppingCart&theme=city_lights""></a>
+  <a align="left" href="https://github.com/murat-yasar/Java_BookstoreManagementSystem" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=Java_BookstoreManagementSystem&theme=city_lights""></a> 
+  <a align="left" href="https://github.com/murat-yasar/progit2-tr" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=murat-yasar&repo=progit2-tr&theme=city_lights""></a>
 
 <h3 align="left">Trophies:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar trophies" /></a>
