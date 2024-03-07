@@ -62,9 +62,11 @@
 <img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" />
 
 <h3 align="left">GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar" align="left" height="190" />
-<img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar" align="right" height="190" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="100%" />
+<section width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar most used languages" align="left" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar github stats" align="left" height="190" />
+</section>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="820" />
 
 <!--  https://home.aveek.io/GitHub-Profile-Badges  https://github.com/Ileriayo/markdown-badges
 <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache logo" title="Apache" height="25" />
