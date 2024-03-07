@@ -59,7 +59,7 @@
 
 <h3 align="left">Trophies:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar" alt="murat-yasar trophies" /></a>
-<img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" />
+<img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" >
 
 <h3 align="left">GitHub Stats:</h3>
 <section width="100%">
