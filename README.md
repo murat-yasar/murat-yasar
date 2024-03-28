@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
-<p align="left">👩‍💻 I'm mostly working with JavaScript, PHP, and TYPO3.</p>
+<p align="left">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
 <p align="left">🧠 I'm recently learning TypoScript, Fluid Templates, and Extbase.</p>
-<p align="left">🎇 I'm currently contributing to translation of ProGit Book into Turkish.</p>
+<p align="left">🎇 I'm currently contributing to translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a> into <a href="https://github.com/murat-yasar/progit2-tr">Turkish</a>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
