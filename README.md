@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
