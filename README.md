@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
-<p align="left">👩‍💻 I'm currently working with JavaScript, PHP, and TYPO3.</p>
-<p align="left">🧠 I'm currently learning TypoScript, Fluid Templates, and Extbase.</p>
+<p align="left">👩‍💻 I'm mostly working with JavaScript, PHP, and TYPO3.</p>
+<p align="left">🧠 I'm recently learning TypoScript, Fluid Templates, and Extbase.</p>
 <p align="left">🎇 I'm currently contributing to translation of ProGit Book into Turkish.</p>
 
 <h3 align="left">Connect with me:</h3>
