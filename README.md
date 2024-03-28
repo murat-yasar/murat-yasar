@@ -75,6 +75,7 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios logo" title="Axios" height="25" />
 <img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black" alt="Babel logo" title="Babel" height="25" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
 <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" alt="Chai logo" title="Chai" height="25" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white" alt="CodeIgniter logo" title="CodeIgniter" height="25" />
