@@ -15,7 +15,6 @@
   <a href="https://www.hackerrank.com/dev_muratyasar" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank logo" title="HackerRank" height="25" /></a>
   <a href="https://www.leetcode.com/murat-yasar" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode logo" title="LeetCode" height="25" /></a>
   <a href="https://www.codewars.com/users/murat-yasar" target="blank"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars logo" title="CodeWars" height="25" /></a>
-  <a href=" https://www.codechef.com/users/muratyasar" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef logo" title="CodeChef" height="25" /></a>
 </p>
 
 <h3 align="left">Programming Languages, Frameworks and Libraries:</h3>
