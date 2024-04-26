@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />&nbsp;
 </p>
 
-<h3 align="left">DataBases and Tools:</h3>
+<h3 align="left">Systems, DataBases and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
 
