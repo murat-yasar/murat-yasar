@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
-<p align="left">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
-<p align="left">🧠 I'm recently learning TypoScript, Fluid Templates, and Extbase.</p>
-<p align="left">🎇 I'm currently contributing to translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a> into <a href="https://github.com/murat-yasar/progit2-tr">Turkish</a>.</p>
+<p align="start">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
+<p align="start">🧠 I'm recently learning TypoScript, Fluid Templates, and Extbase.</p>
+<p align="start">🎇 I'm currently contributing to translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a> into <a href="https://github.com/murat-yasar/progit2-tr">Turkish</a>.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="start">Connect with me:</h3>
+<p align="start">
   <a href="https://linkedin.com/in/murat-yasar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
   <a href="https://twitter.com/devmuratyasar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" title="twitter" height="25" /></a>
   <a href="https://stackoverflow.com/users/23463499" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow logo" title="Stack Overflow" height="25" /></a>
@@ -18,8 +18,8 @@
   <a href="https://www.codechef.com/users/muratyasar" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef logo" title="CodeChef" height="25" /></a>
 </p>
 
-<h3 align="left">Programming Languages, Frameworks and Libraries:</h3>
-<p align="left">
+<h3 align="start">Programming Languages, Frameworks and Libraries:</h3>
+<p align="start">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass logo" title="Sass" height="25" />&nbsp;
@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />&nbsp;
 </p>
 
-<h3 align="left">Systems, DataBases and Tools:</h3>
-<p align="left"> 
+<h3 align="start">Systems, DataBases and Tools:</h3>
+<p align="start"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
@@ -54,11 +54,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
 
-<h3 align="left">Trophies:</h3>
+<h3 align="start">Trophies:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar&theme=tokyonight" alt="murat-yasar trophies" /></a>
 <img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" >
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="start">GitHub Stats:</h3>
 <section width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar most used languages" align="left" height="190" />
   <img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar github stats" align="left" height="190" />
