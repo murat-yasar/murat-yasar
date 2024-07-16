@@ -4,8 +4,10 @@
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
 <p align="start">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
-<p align="start">🧠 I'm recently learning TypoScript, Fluid Templates, and Extbase.</p>
-<p align="start">🎇 I'm currently contributing to translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a> into <a href="https://github.com/murat-yasar/progit2-tr">Turkish</a>.</p>
+<p align="start">🧠 I'm recently learning Sass and Gulp.</p>
+
+<h3 align="start">Open Source contributions:</h3>
+<p align="start">Turkish translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a>.</p>
 
 <h3 align="start">Connect with me:</h3>
 <p align="start">
@@ -25,8 +27,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass logo" title="Sass" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp logo" title="Gulp" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp logo" title="Gulp" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM logo" title="NPM" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React logo" title="React" height="25" />&nbsp;
