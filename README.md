@@ -11,6 +11,8 @@
   <li><p align="start">Turkish translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a>.</p></li>
 </ul>
 
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
+
 <h3 align="start">Connect with me:</h3>
 <p align="start">
   <a href="https://linkedin.com/in/murat-yasar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
@@ -69,5 +71,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar github stats" align="left" height="190" />
 </section>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="820" />
-
-<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
