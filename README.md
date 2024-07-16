@@ -7,11 +7,14 @@
 <p align="start">🧠 I'm recently learning Sass and Gulp.</p>
 
 <h3 align="start">Open Source contributions:</h3>
-<p align="start">Turkish translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a>.</p>
+<ul>
+  <li><p align="start">Turkish translation of <a href="https://git-scm.com/book/en/v2">ProGit Book</a>.</p></li>
+</ul>
 
 <h3 align="start">Connect with me:</h3>
 <p align="start">
   <a href="https://linkedin.com/in/murat-yasar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+  <a href="https://www.xing.com/profile/Murat_Yasar38" target="blank"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="Xing logo" title="Xing" height="25" /></a>
   <a href="https://twitter.com/devmuratyasar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" title="twitter" height="25" /></a>
   <a href="https://stackoverflow.com/users/23463499" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow logo" title="Stack Overflow" height="25" /></a>
   <a href="https://www.hackerrank.com/dev_muratyasar" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank logo" title="HackerRank" height="25" /></a>
