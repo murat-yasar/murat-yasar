@@ -69,3 +69,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar github stats" align="left" height="190" />
 </section>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="820" />
+
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
