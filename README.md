@@ -4,7 +4,7 @@
 <h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
 
 <p align="start">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
-<p align="start">🧠 I'm recently learning Sass and Gulp.</p>
+<p align="start">🧠 I've been recently learning Symfony.</p>
 
 <h3 align="start">Open Source contributions:</h3>
 <ul>
