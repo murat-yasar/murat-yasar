@@ -27,47 +27,62 @@
 
 <h3 align="start">Programming Languages, Frameworks and Libraries:</h3>
 <p align="start">
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony logo" title="Symfony" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
+
+  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />&nbsp;
+
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass logo" title="Sass" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp logo" title="Gulp" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
+
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM logo" title="NPM" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React logo" title="React" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Context--Api-282C34?style=for-the-badge&logo=react" alt="Context-API logo" title="Context-API" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Context--Api-282C34?style=for-the-badge&logo=react" alt="Context-API logo" title="Context-API" height="25" />&nbsp;  
 </p>
 
 <h3 align="start">Systems, DataBases and Tools:</h3>
 <p align="start"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />&nbsp;
+
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="ostgreSQL logo" title="ostgreSQL" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache logo" title="Apache" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
+  
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab logo" title="GitLab" height="25" />&nbsp;
+  
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira logo" title="Jira" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 </p>
 
+<!--
 <h3 align="start">Trophies:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=murat-yasar&theme=tokyonight" alt="murat-yasar trophies" /></a>
-<img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" >
+-->
 
 <h3 align="start">GitHub Stats:</h3>
+<!--
 <section width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-yasar&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="murat-yasar most used languages" align="left" height="190" />
   <img src="https://github-readme-stats.vercel.app/api?username=murat-yasar&show_icons=true&locale=en&theme=city_lights" alt="murat-yasar github stats" align="left" height="190" />
 </section>
+-->
+<img src="https://komarev.com/ghpvc/?username=murat-yasar&label=Profile%20views&color=0e75b6&style=flat" alt="number of visitors" >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murat-yasar&theme=city_lights" alt="murat-yasar contribution graph" width="820" />
