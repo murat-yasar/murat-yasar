@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/murat-yasar/murat-yasar/blob/main/full-stack-banner-1210x423.jpeg)
 
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">A curious full-stack software developer with a passion for JavaScript and PHP. </h3>
+<h3 align="center">A curious full-stack software developer with a passion for JavaScript, PHP and DevOps practices.</h3>
 
 <p align="start">👩‍💻 I mostly work with JavaScript, PHP, and TYPO3.</p>
 <p align="start">🧠 I've been recently learning Symfony.</p>
