@@ -9,6 +9,7 @@
 <h3 align="start">Open Source contributions:</h3>
 <ul>
   <li><p align="start">Translation of <a href="https://git-scm.com/book/tr/v2">ProGit Book</a> into Turkish.</p></li>
+  <li><p align="start">zsh-t3 <a href="https://github.com/murat-yasar/zsh-t3-shortcuts"> a zsh-plugin</a> for TYPO3 Developers</p></li>
 </ul>
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
