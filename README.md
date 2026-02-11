@@ -8,7 +8,7 @@
 
 <h3 align="start">Open Source contributions:</h3>
 <ul>
-  <li><p align="start">Translation of <a href="https://git-scm.com/book/tr/v2">ProGit Book</a> into Turkish.</p></li>
+  <li><p align="start"><a href="https://git-scm.com/book/tr/v2">ProGit Book</a> translation into Turkish.</p></li>
   <li><p align="start"><a href="https://github.com/murat-yasar/zsh-t3-shortcuts">zsh-t3</a> zsh-plugin for TYPO3 Developers</p></li>
 </ul>
 
