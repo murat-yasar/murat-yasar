@@ -29,13 +29,12 @@
 <h3 align="start">Programming Languages, Frameworks and Libraries:</h3>
 <p align="start">
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony logo" title="Symfony" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
 
-  <img src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white" alt="TYPO3 logo" title="TYPO3" height="25" />&nbsp;
-
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;
 
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
@@ -53,17 +52,18 @@
 <h3 align="start">Systems, DataBases and Tools:</h3>
 <p align="start">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux logo" title="linux" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache logo" title="Apache" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="GNU Bash logo" title="GNU Bash" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer logo" title="Composer" height="25" />&nbsp;
 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="ostgreSQL logo" title="ostgreSQL" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache logo" title="Apache" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgreSQL logo" title="postgreSQL" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git logo" title="Git" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions logo" title="GitHub Actions" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab logo" title="GitLab" height="25" />&nbsp;
 
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25" />&nbsp;
